@@ -1,0 +1,7 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+soljson-v0.8.13+commit.abaa5c0e.js
